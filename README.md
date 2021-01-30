@@ -26,3 +26,4 @@
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/sirlordpouya)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/sirlordpouya)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/pouyaheydari/)
+[<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="32">](https://pouyaheydari.com/)
