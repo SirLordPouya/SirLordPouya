@@ -12,14 +12,11 @@
 
 🇮🇷🇦🇪🇬🇪🇦🇲🇦🇿🇹🇷
 
-## Top Languages I use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sirlordpouya&show_icons=true&hide=css,html,c%23&theme=tokyonight&layout=compact)](https://github.com/SirLordPouya)
-
 ## What I know
-![Android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
-![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+.<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="32">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="32">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32">
 
 ## How to reach me
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/sirlordpouya)
