@@ -10,7 +10,7 @@
 
 📜 Certified by AndroidATC & Jetbrains
 
-🇮🇷🇦🇪🇬🇪🇦🇲🇦🇿🇹🇷
+🇮🇷🇦🇪🇬🇪🇦🇲🇦🇿🇹🇷🇩🇪
 
 ## What I know
 .<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="32">
